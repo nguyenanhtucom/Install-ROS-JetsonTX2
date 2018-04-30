@@ -13,6 +13,7 @@ Usage:
 $ ./setupCatkinWorkspace.sh jetsonbot
 
 <strong>starup roscore</strong>
+
 Usage:
 
 $ cd jetsonbot
